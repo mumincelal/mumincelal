@@ -10,10 +10,6 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 
 ![Mümin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumincelal&show_icons=true)
 
-## Job
-
-I'm working as a Software Engineer in [Cool Digital Solutions](https://letsbecool.com/)
-
 ## Know / Using 🧠
 
 <img src="https://github.com/github/explore/blob/master/topics/actions/actions.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/redux/redux.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> 
