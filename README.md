@@ -9,7 +9,7 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 - 🙋‍♂️ Pronouns: He/him
 
 [![Mümin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumincelal&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/mumincelal)
-[![Mümin's Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=mumincela&layout=compact)](https://github.com/mumincelal)
+[![Mümin's Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=mumincelal&layout=compact)](https://github.com/mumincelal)
 
 ## Know / Using 🧠
 
