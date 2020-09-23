@@ -23,7 +23,7 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png?raw=true" height="32" />
 
 ## Learning 📚
-<img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/nestjs/nestjs.png" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/nestjs/nestjs.png" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/deno/deno.png" height="32" />
 
 ## How to reach me 📫
 
