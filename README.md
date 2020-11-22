@@ -22,9 +22,6 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/nginx/nginx.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> 
 <img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png?raw=true" height="32" />
 
-## Learning 📚
-<img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/deno/deno.png" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/graphql/graphql.png" height="32" />
-
 ## How to reach me 📫
 
 You can find and get touch with me on these accounts!
