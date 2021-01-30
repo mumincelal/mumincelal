@@ -6,9 +6,9 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 
 - 🙋‍♂️ Pronouns: He/him
 
-[![Mümin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumincelal&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)](https://github.com/mumincelal)
+[![Mümin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumincelal&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/mumincelal)
 
-[![Mümin's Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=mumincelal&theme=radical&hide_border=true&layout=compact)](https://github.com/mumincelal)
+[![Mümin's Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=mumincelal&theme=radical&layout=compact)](https://github.com/mumincelal)
 
 [![Mümin's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mumincelal&layout=compact&theme=radical)](https://github.com/mumincelal)
 
