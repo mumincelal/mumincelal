@@ -50,9 +50,7 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=ffffff)
 ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=ffffff)
 
-<!-- ## Learning 📚
-
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=ffffff)
+<!-- ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=ffffff)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=ffffff)
 ![Nginx Badge](https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=ffffff)
