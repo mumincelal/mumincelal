@@ -61,6 +61,7 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 ![Kibana Badge](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=ffffff)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff)
+![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=Chakra%20UI&logoColor=ffffff)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Deno Badge](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=ffffff)
 ![WebAssembly Badge](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=ffffff)
