@@ -49,8 +49,8 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 ![Electron Badge](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=ffffff)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=ffffff)
 ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=ffffff)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff)
 ![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=Chakra%20UI&logoColor=ffffff)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff)
 
 <!-- ![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=ffffff)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=ffffff)
@@ -67,10 +67,9 @@ I'm a hard working and loving challenging projects. My passion is learning new t
 ![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=ffffff)
 ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=ffffff) -->
 
-## How to reach me 📫
+## How to reach me out 📫
 
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/mumincelal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mumin-celal-pinar-42547485/)
-[![Twitter Badge](https://img.shields.io/badge/mumincelal-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mumincelal/)
 [![Mail Badge](https://img.shields.io/badge/mumincelalpinar@gmail.com-send%20email-blue?style=for-the-badge&logo=Gmail)](mailto:mumincelalpinar@gmail.com)
