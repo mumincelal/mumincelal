@@ -23,6 +23,7 @@ I am Software Engineer. I am interested with web technologies, blockchain and we
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=ffffff)
+![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=ffffff)
 
 ### Backend
 
@@ -37,6 +38,11 @@ I am Software Engineer. I am interested with web technologies, blockchain and we
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
 ![MSSQL Badge](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=ffffff)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)
+
+### Orm
+
+![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=ffffff)
+![TypeOrm Badge](https://img.shields.io/badge/TypeORM-DC382D?style=flat-square&logo=TypeORM&logoColor=ffffff)
 
 ### Mobile
 
