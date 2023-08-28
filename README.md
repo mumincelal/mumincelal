@@ -25,7 +25,6 @@ I am Software Engineer. I am interested with web technologies.
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=ffffff)
 ![Radix UI Badge](https://img.shields.io/badge/RadixUI-161618?style=flat-square&logo=radixui&logoColor=ffffff)
 
-
 ### Backend
 
 ![NodeJS Badge](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
