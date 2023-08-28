@@ -1,6 +1,6 @@
 # Hi, I am Mümin. 👋
 
-I am Software Engineer. I am interested with web technologies, blockchain and web3.
+I am Software Engineer. I am interested with web technologies.
 
 [![Mümin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumincelal&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/mumincelal)
 
@@ -22,8 +22,9 @@ I am Software Engineer. I am interested with web technologies, blockchain and we
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=ffffff)
+![Radix UI Badge](https://img.shields.io/badge/RadixUI-161618?style=flat-square&logo=radixui&logoColor=ffffff)
+
 
 ### Backend
 
@@ -43,6 +44,8 @@ I am Software Engineer. I am interested with web technologies, blockchain and we
 
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=ffffff)
 ![TypeOrm Badge](https://img.shields.io/badge/TypeORM-DC382D?style=flat-square&logo=TypeORM&logoColor=ffffff)
+![Mongoose Badge](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=MongoDB&logoColor=ffffff)
+![Drizzle Badge](https://img.shields.io/badge/Drizzle-512BD4?style=flat-square&logo=Drizzle&logoColor=ffffff)
 
 ### Mobile
 
