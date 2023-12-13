@@ -4,7 +4,7 @@ I am Software Engineer. I am interested with web technologies.
 
 [![Mümin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumincelal&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/mumincelal)
 
-[![Mümin's Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=mumincelal&theme=radical&layout=compact)](https://github.com/mumincelal)
+[![Mümin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumincelal&theme=radical&layout=compact)](https://github.com/mumincelal)
 
 ---
 
