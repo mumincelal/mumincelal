@@ -12,10 +12,8 @@ I am Software Engineer. I am interested with web technologies.
 
 ### Frontend
 
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=ffffff)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff)
-![Styled Components Badge](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)
 ![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=Chakra%20UI&logoColor=ffffff)
 ![Ant Design Badge](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=Ant%20Design&logoColor=ffffff)
 ![Material UI Design Badge](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=ffffff)
@@ -24,19 +22,18 @@ I am Software Engineer. I am interested with web technologies.
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=ffffff)
 ![Radix UI Badge](https://img.shields.io/badge/RadixUI-161618?style=flat-square&logo=radixui&logoColor=ffffff)
+![Shadcn Badge](https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcnui&logoColor=ffffff)
 
 ### Backend
 
 ![NodeJS Badge](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=ffffff)
 ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=ffffff)
-![.Net Core Badge](https://img.shields.io/badge/.Net%20Core-5C2D91?style=flat-square&logo=.NET&logoColor=ffffff)
 
 ### Database
 
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
-![MSSQL Badge](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=ffffff)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)
 
 ### Orm
@@ -87,7 +84,6 @@ I am Software Engineer. I am interested with web technologies.
 
 ### IDE
 
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=ffffff)
 ![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
 
 ### Source Code Management
